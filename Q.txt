@@ -1,0 +1,1 @@
+cratre a web app for corp predicition system using streamlit
